@@ -1,0 +1,13 @@
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\bin\Debug\Cajero.xml
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.vbprojAssemblyReference.cache
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.Form1.resources
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.Form2.resources
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.Resources.resources
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.vbproj.GenerateResource.cache
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.vbproj.CoreCompileInputs.cache
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.xml
+C:\Users\computacion sc\Desktop\Cajero\Cajero\Cajero\obj\Debug\Cajero.pdb
